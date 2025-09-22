@@ -4,3 +4,4 @@ images/
 exports/
 *.pkl
 keras_models/
+my_logs/
