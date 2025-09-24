@@ -5,3 +5,4 @@ exports/
 *.pkl
 keras_models/
 my_logs/
+my_fashion_mnist/
