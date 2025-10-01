@@ -6,3 +6,4 @@ exports/
 keras_models/
 my_logs/
 my_fashion_mnist/
+mnist/
